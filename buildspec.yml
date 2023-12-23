@@ -16,4 +16,4 @@ phases:
 
 artifacts:
   files:
-    - /ver/www/html/index.html
+    - '**/*'
